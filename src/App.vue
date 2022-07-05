@@ -27,7 +27,6 @@ import BannerComponent from "./components/BannerComponent.vue";
       },
     ]"
   />
-  <hr />
   <BannerComponent
     style="--theme-color-2: #c8ffaa"
     :carousel-on-mobile="true"
@@ -68,9 +67,44 @@ import BannerComponent from "./components/BannerComponent.vue";
         src: 'https://picsum.photos/400',
         link: 'https://example.com/link3',
       },
+      {
+        type: 'image',
+        aspectRatio: 'square',
+        src: 'https://picsum.photos/400',
+        link: 'https://example.com/link3',
+      },
+      {
+        type: 'image',
+        aspectRatio: 'square',
+        src: 'https://picsum.photos/400',
+        link: 'https://example.com/link3',
+      },
+      {
+        type: 'image',
+        aspectRatio: 'square',
+        src: 'https://picsum.photos/400',
+        link: 'https://example.com/link3',
+      },
+      {
+        type: 'image',
+        aspectRatio: 'square',
+        src: 'https://picsum.photos/400',
+        link: 'https://example.com/link3',
+      },
+      {
+        type: 'image',
+        aspectRatio: 'square',
+        src: 'https://picsum.photos/400',
+        link: 'https://example.com/link3',
+      },
+      {
+        type: 'image',
+        aspectRatio: 'square',
+        src: 'https://picsum.photos/400',
+        link: 'https://example.com/link3',
+      },
     ]"
   />
-  <hr />
   <BannerComponent
     mode="rectangle"
     style="--theme-color-1: #fff; --theme-color-2: #707070"

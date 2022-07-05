@@ -5,7 +5,8 @@ $z-below: -1;
 $z-level: 0;
 $z-above: 1;
 
-$s-gap: 10px;
+$xs-gap: 5px;
+$s-gap: 2 * $xs-gap;
 $m-gap: 2 * $s-gap;
 $l-gap: 2 * $m-gap;
 
