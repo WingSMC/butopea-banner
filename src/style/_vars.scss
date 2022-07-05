@@ -1,0 +1,15 @@
+$theme-color-1: var(--theme-color-1);
+$theme-color-2: var(--theme-color-2);
+
+$z-below: -1;
+$z-level: 0;
+$z-above: 1;
+
+$s-gap: 10px;
+$m-gap: 2 * $s-gap;
+$l-gap: 2 * $m-gap;
+
+$transition-duration: 0.2s;
+
+$screen-s-desktop: 768px;
+$screen-m-desktop: 1080px;
